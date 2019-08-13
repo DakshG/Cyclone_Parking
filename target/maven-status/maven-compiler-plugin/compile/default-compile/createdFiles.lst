@@ -1,0 +1,17 @@
+com\example\demo\DemoApplication.class
+com\example\demo\LotInfo\LotInfoRepository.class
+com\example\demo\Ticket\TicketRepository.class
+com\example\demo\CurrentlyParked\CurrentlyParked.class
+com\example\demo\DefaultUsers\DefaultUsers.class
+com\example\demo\DefaultUsers\DefaultUsersRepository.class
+com\example\demo\system\WelcomeController.class
+com\example\demo\Ticket\LicenseDate.class
+com\example\demo\DefaultUsers\DefaultUsersController.class
+com\example\demo\LotInfo\LotInfoController.class
+com\example\demo\system\CrashController.class
+com\example\demo\LotInfo\LotInfo.class
+com\example\demo\CurrentlyParked\Spot.class
+com\example\demo\Ticket\TicketController.class
+com\example\demo\Ticket\Ticket.class
+com\example\demo\CurrentlyParked\CurrentlyParkedService.class
+com\example\demo\MockTest\ParkTest.class
